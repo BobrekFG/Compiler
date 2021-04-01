@@ -370,6 +370,7 @@ namespace Compiler
         {
             System.Diagnostics.Process.Start("Info\\Graph.html");
 
+
         }
     }
 }
