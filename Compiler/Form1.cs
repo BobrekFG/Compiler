@@ -369,6 +369,7 @@ namespace Compiler
         private void функцииПереходовСостоянийToolStripMenuItem_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("Info\\Graph.html");
+
         }
     }
 }
