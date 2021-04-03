@@ -355,9 +355,10 @@ namespace Compiler
         {
 
             if (PascalCommentFinder.CheckString(CodeField.Text))
-                ResultField.Text = "OK";
+                ResultField.Text = "Является комментарием языка Pascal";
             else
-                ResultField.Text = "ERROR";
+                ResultField.Text = "Не является комментарием языка Pascal";
+
 
         }
 
