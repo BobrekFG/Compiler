@@ -12,7 +12,7 @@ namespace Compiler
 
         private static bool IsM(char symbol)
         {
-            if (symbol == '('  || symbol == ')' || symbol == '*' || symbol == '{' || symbol == '}')
+            if (symbol == '(' || symbol == ')' || symbol == '*' || symbol == '{' || symbol == '}')
                 return true;
             else
                 return false;

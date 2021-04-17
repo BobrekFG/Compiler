@@ -72,5 +72,3 @@ State set and input alphabet
 State transition functions
 Новый документ
 New document
-Локализация
-Localisation

@@ -94,7 +94,7 @@ namespace Compiler
             int start = CodeField.GetLineFromCharIndex(CodeField.GetCharIndexFromPosition(new Point(0, 0)));
             int end = CodeField.GetLineFromCharIndex(CodeField.GetCharIndexFromPosition(new Point(CodeField.Size.Width, CodeField.Size.Height)));
             for (int i = start; i <= end; i++)
-                numbers += i + ":\n";
+                numbers += (i+1) + ":\n";
 
             RowsNumbers.Text = numbers;
 
@@ -269,18 +269,27 @@ namespace Compiler
             EditStrip.Text = localisation["Правка"];
             TextStrip.Text = localisation["Текст"];
             PlayStrip.Text = localisation["Пуск"];
+            toolStripButton1.Text = localisation["Пуск"];
             InfoStrip.Text = localisation["Справка"];
             ViewStrip.Text = localisation["Вид"];
             CreateStrip.Text = localisation["Создать"];
+            CreateButton.Text = localisation["Создать"];
             OpenStrip.Text = localisation["Открыть"];
+            OpenButton.Text = localisation["Открыть"];
             SaveStrip.Text = localisation["Сохранить"];
+            SaveButton.Text = localisation["Сохранить"];
             SaveAsStrip.Text = localisation["Сохранить как"];
             ExitStrip.Text = localisation["Выход"];
             CancelStrip.Text = localisation["Отменить"];
+            BackButton.Text = localisation["Отменить"];
             RepeatStrip.Text = localisation["Повторить"];
+            RepeatButton.Text = localisation["Повторить"];
             CutStrip.Text = localisation["Вырезать"];
+            CutButton.Text = localisation["Вырезать"];
             CopyStrip.Text = localisation["Копировать"];
+            CopyButton.Text = localisation["Копировать"];
             PasteStrip.Text = localisation["Вставить"];
+            PasteButton.Text = localisation["Вставить"];
             DeleteStrip.Text = localisation["Удалить"];
             SelectAllStrip.Text = localisation["Выделить все"];
             T1Strip.Text = localisation["Постановка задачи"];
@@ -292,6 +301,7 @@ namespace Compiler
             T7Strip.Text = localisation["Список литературы"];
             T8Strip.Text = localisation["Исходный код программы"];
             CallInfoStrip.Text = localisation["Вызов справки"];
+            toolStripButton2.Text = localisation["Вызов справки"];
             AboutStrip.Text = localisation["О программе"];
             TextSizeStrip.Text = localisation["Размер текста"];
             CodeFieldStrip.Text = localisation["Окно кода"];
@@ -300,16 +310,20 @@ namespace Compiler
             CodeFontDownStrip.Text = localisation["Уменьшить шрифт"];
             ResultFontUpStrip.Text = localisation["Увеличить шрифт"];
             ResultFontDownStrip.Text = localisation["Уменьшить шрифт"];
+            LocalisationStrip.Text = localisation["Локализация"];
             TaskStrip.Text = localisation["Задание"];
             StatesAndAlphabetStrip.Text = localisation["Множество состояний и входной алфавит"];
             FunctionsTransStatesStrip.Text = localisation["Функции переходов состояний"];
-            LocalisationStrip.Text = localisation["Локализация"];
 
             DocPage.DefaultTitle = localisation["Новый документ"];
         }
         private void About(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("Info\\index.html");
+            System.Diagnostics.Process.Start("Info\\about.html");
+        }
+        private void Help(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("Info\\help.html");
         }
 
         private void SelectAllClick(object sender, EventArgs e)
@@ -353,12 +367,10 @@ namespace Compiler
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
-
             if (PascalCommentFinder.CheckString(CodeField.Text))
                 ResultField.Text = "Является комментарием языка Pascal";
             else
                 ResultField.Text = "Не является комментарием языка Pascal";
-
 
         }
 
@@ -370,8 +382,6 @@ namespace Compiler
         private void функцииПереходовСостоянийToolStripMenuItem_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("Info\\Graph.html");
-
-
         }
     }
 }
