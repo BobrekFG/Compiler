@@ -62,7 +62,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Automat.cs" />
-    <Compile Include="CharChain.cs" />
     <Compile Include="CodeHandler.cs" />
     <Compile Include="DocPage.cs" />
     <Compile Include="Form1.cs">

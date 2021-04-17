@@ -61,3 +61,12 @@ C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\obj\Deb
 C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
 C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.exe
 C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\аня\Downloads\Compiler-main\Compiler-main\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\аня\Downloads\Compiler-main\Compiler-main\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\аня\Downloads\Compiler-main\Compiler-main\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\аня\Downloads\Compiler-main\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+C:\Users\аня\Downloads\Compiler-main\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\аня\Downloads\Compiler-main\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\аня\Downloads\Compiler-main\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\аня\Downloads\Compiler-main\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\аня\Downloads\Compiler-main\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.pdb
