@@ -1,0 +1,63 @@
+C:\Users\Егор А\Desktop\Compiler-master\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Егор А\Desktop\Compiler-master\Compiler\bin\Debug\Compiler.exe
+C:\Users\Егор А\Desktop\Compiler-master\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Егор А\Desktop\Compiler-master\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Егор А\Desktop\Compiler-master\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Егор А\Desktop\Compiler-master\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\Егор А\Desktop\Compiler-master\Compiler\obj\Debug\Compiler.exe
+C:\Users\Егор А\Desktop\Compiler-master\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Егор А\Desktop\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Егор А\Desktop\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Егор А\Desktop\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Егор А\Desktop\Compiler\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+C:\Users\Егор А\Desktop\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Егор А\Desktop\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Егор А\Desktop\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\Егор А\Desktop\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Егор А\Desktop\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Егор А\Desktop\Compiler2\Compiler\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Егор А\Desktop\Compiler2\Compiler\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Егор А\Desktop\Compiler2\Compiler\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Егор А\Desktop\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+C:\Users\Егор А\Desktop\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Егор А\Desktop\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Егор А\Desktop\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\Егор А\Desktop\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Егор А\Desktop\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Егор А\Desktop\3 курс\6 семестр\Теория формальных языков и компиляторов\Compiler2\Compiler\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Егор А\Desktop\3 курс\6 семестр\Теория формальных языков и компиляторов\Compiler2\Compiler\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Егор А\Desktop\3 курс\6 семестр\Теория формальных языков и компиляторов\Compiler2\Compiler\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Егор А\Desktop\3 курс\6 семестр\Теория формальных языков и компиляторов\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+C:\Users\Егор А\Desktop\3 курс\6 семестр\Теория формальных языков и компиляторов\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Егор А\Desktop\3 курс\6 семестр\Теория формальных языков и компиляторов\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Егор А\Desktop\3 курс\6 семестр\Теория формальных языков и компиляторов\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\Егор А\Desktop\3 курс\6 семестр\Теория формальных языков и компиляторов\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Егор А\Desktop\3 курс\6 семестр\Теория формальных языков и компиляторов\Compiler2\Compiler\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\User.DESKTOP-Q2FT676\Desktop\Comiler\Compiler\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\User.DESKTOP-Q2FT676\Desktop\Comiler\Compiler\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\User.DESKTOP-Q2FT676\Desktop\Comiler\Compiler\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\User.DESKTOP-Q2FT676\Desktop\Comiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-Q2FT676\Desktop\Comiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\User.DESKTOP-Q2FT676\Desktop\Comiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\User.DESKTOP-Q2FT676\Desktop\Comiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-Q2FT676\Desktop\Comiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-Q2FT676\Desktop\Comiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\User.DESKTOP-Q2FT676\Desktop\Comiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Егор А\Desktop\Compiler\Compiler\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Егор А\Desktop\Compiler\Compiler\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Егор А\Desktop\Compiler\Compiler\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Егор А\Desktop\Compiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+C:\Users\Егор А\Desktop\Compiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Егор А\Desktop\Compiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Егор А\Desktop\Compiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\Егор А\Desktop\Compiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Егор А\Desktop\Compiler\Compiler\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\аня\Downloads\Compiler-mainE\Compiler-main\Compiler\Compiler\obj\Debug\Compiler.pdb
