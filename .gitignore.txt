@@ -1,2 +1,0 @@
-Compiler/Compiler/obj/
-Compiler/Compiler/obj/
